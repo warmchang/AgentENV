@@ -5,21 +5,21 @@
     "total": 0
   },
   "functions": {
-    "coverage": "72.22%",
-    "missed": 1382,
-    "total": 4975
+    "coverage": "72.29%",
+    "missed": 1381,
+    "total": 4984
   },
-  "generated_at": "2026-08-07T02:21:33Z",
+  "generated_at": "2026-08-07T08:21:24Z",
   "lines": {
-    "coverage": "76.48%",
-    "missed": 9685,
-    "total": 41176
+    "coverage": "76.53%",
+    "missed": 9691,
+    "total": 41296
   },
   "package": "workspace",
   "regions": {
-    "coverage": "75.62%",
-    "missed": 14049,
-    "total": 57624
+    "coverage": "75.68%",
+    "missed": 14060,
+    "total": 57822
   },
-  "run_url": "https://github.com/warmchang/AgentENV/actions/runs/31140612713"
+  "run_url": "https://github.com/warmchang/AgentENV/actions/runs/31160902005"
 }
